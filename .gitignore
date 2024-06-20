@@ -1,2 +1,4 @@
 venv/
 vision_api_key.json
+.env
+logs/
